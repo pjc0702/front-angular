@@ -16,10 +16,9 @@
         "build:ci": "ng build --prod --aot --build-optimizer --progress=false --configuration=production --base-href ./"
     },
     "publishConfig": {
-        "registry": "https://cdnxpro.pronaca.com/repository/npm-internal/",
+        "registry": "https://cdnxpro.pronaca.com/repository/npm-hosted/",
         "dockerRegistry": "cddnpro.pronaca.com"
     },
-    "private": true,
     "dependencies": {
         "@angular/animations": "~10.0.2",
         "@angular/common": "~10.0.2",

@@ -7,7 +7,9 @@ import { User } from '../models/user';
 })
 export class ApiTestService {
 
-  urlApi: string = 'http://localhost:8080/api';
+  urlApi: string = 'https://cdbgsbdes.pronaca.com/api';
+  //urlApi: string = 'http://localhost:8080/api';
+
   constructor(private httpClient: HttpClient) { }
 
   /**
