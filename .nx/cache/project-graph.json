@@ -4647,15 +4647,6 @@
         "hash": "sha512-p4jj6Fws4Iy2m0iCmI2am2ZNZCgbdgE+P8F/8csmn2vx7ixXrO2zGcuNsD46X5uZSVecmkEy/M06X2vG8KD6dQ=="
       }
     },
-    "npm:asynckit": {
-      "type": "npm",
-      "name": "npm:asynckit",
-      "data": {
-        "version": "0.4.0",
-        "packageName": "asynckit",
-        "hash": "sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q=="
-      }
-    },
     "npm:autoprefixer": {
       "type": "npm",
       "name": "npm:autoprefixer",
@@ -4668,15 +4659,6 @@
     "npm:axios": {
       "type": "npm",
       "name": "npm:axios",
-      "data": {
-        "version": "0.21.4",
-        "packageName": "axios",
-        "hash": "sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg=="
-      }
-    },
-    "npm:axios@1.6.2": {
-      "type": "npm",
-      "name": "npm:axios@1.6.2",
       "data": {
         "version": "1.6.2",
         "packageName": "axios",
@@ -5394,15 +5376,6 @@
         "hash": "sha512-lomjuFZKfM6MSAnV9aCZC9sc0qGbmZdfygNv+nCpqVkSKdCxCklLtd16O0EILGkImHw9ZpHkAnHaB+8Zxq5W6Q=="
       }
     },
-    "npm:combined-stream": {
-      "type": "npm",
-      "name": "npm:combined-stream",
-      "data": {
-        "version": "1.0.8",
-        "packageName": "combined-stream",
-        "hash": "sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg=="
-      }
-    },
     "npm:commander": {
       "type": "npm",
       "name": "npm:commander",
@@ -5824,15 +5797,6 @@
         "version": "2.0.0",
         "packageName": "define-lazy-prop",
         "hash": "sha512-Ds09qNh8yw3khSjiJjiUInaGX9xlqZDY7JVryGxdxV7NPeuqQfplOpQ66yJFZut3jLa5zOwkXw1g9EI2uKh4Og=="
-      }
-    },
-    "npm:delayed-stream": {
-      "type": "npm",
-      "name": "npm:delayed-stream",
-      "data": {
-        "version": "1.0.0",
-        "packageName": "delayed-stream",
-        "hash": "sha512-ZySD7Nf91aLB0RxL4KGrKHBXl7Eds1DAmEdcoVawXnLD7SDhpNgtuII2aAkg7a7QS41jxPSZ17p4VdGnMHk3MQ=="
       }
     },
     "npm:depd": {
@@ -6901,9 +6865,9 @@
       "type": "npm",
       "name": "npm:follow-redirects",
       "data": {
-        "version": "1.15.3",
+        "version": "1.15.5",
         "packageName": "follow-redirects",
-        "hash": "sha512-1VzOtuEM8pC9SFU1E+8KfTjZyMztRsgEfwQl44z8A25uy13jSzTj6dyK2Df52iV0vgHCfBwLhDWevLn95w5v6Q=="
+        "hash": "sha512-vSFWUON1B+yAw1VN4xMfxgn5fTUiaOzAJCKBwIIgT/+7CuGy9+r+5gITvP62j3RmaD5Ph65UaERdOSRGUzZtgw=="
       }
     },
     "npm:foreground-child": {
@@ -6958,15 +6922,6 @@
         "version": "4.2.0",
         "packageName": "schema-utils",
         "hash": "sha512-L0jRsrPpjdckP3oPug3/VxNKt2trR8TcabrM6FOAAlvC/9Phcmm+cuAgTlxBqdBR1WJx7Naj9WHw+aOmheSVbw=="
-      }
-    },
-    "npm:form-data": {
-      "type": "npm",
-      "name": "npm:form-data",
-      "data": {
-        "version": "4.0.0",
-        "packageName": "form-data",
-        "hash": "sha512-ETEklSGi5t0QMZuiXoA/Q6vcnxcLQP5vdugSpuAyi6SVGi2clPPp+xgEhuMaHC+zGgn31Kd235W35f7Hykkaww=="
       }
     },
     "npm:forwarded": {
@@ -7558,9 +7513,9 @@
       "type": "npm",
       "name": "npm:ip",
       "data": {
-        "version": "2.0.0",
+        "version": "2.0.1",
         "packageName": "ip",
-        "hash": "sha512-WKa+XuLG1A1R0UWhl2+1XQSi+fZWMsYKffMZTTYsiZaUD8k2yDAj5atimTUD2TZkyCkNEeYE5NhFZmupOGtjYQ=="
+        "hash": "sha512-lJUL9imLTNi1ZfXT+DU6rBBdbiKGBuay9B6xGSPVjUeQwaH1RIGqef8RZkUtHioLmSNpPR5M4HVKJGm1j8FWVQ=="
       }
     },
     "npm:ipaddr.js": {
@@ -9777,15 +9732,6 @@
         "hash": "sha512-llQsMLSUDUPT44jdrU/O37qlnifitDP+ZwrmmZcoSKyLKvtZxpyV0n2/bD/N4tBAAZ/gJEdZU7KMraoK1+XYAg=="
       }
     },
-    "npm:proxy-from-env": {
-      "type": "npm",
-      "name": "npm:proxy-from-env",
-      "data": {
-        "version": "1.1.0",
-        "packageName": "proxy-from-env",
-        "hash": "sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg=="
-      }
-    },
     "npm:prr": {
       "type": "npm",
       "name": "npm:prr",
@@ -10834,7 +10780,7 @@
       "type": "npm",
       "name": "npm:undici",
       "data": {
-        "version": "5.27.2",
+        "version": "5.28.3",
         "packageName": "undici",
         "hash": "sha512-iS857PdOEy/y3wlM3yRp+6SNQQ6xU0mmZcwRSriqk+et/cwWAtwmIGf6WkoDN2EK/AMdCO/dfXzIwi+rFMrjjQ=="
       }
@@ -11032,7 +10978,7 @@
       "type": "npm",
       "name": "npm:vite",
       "data": {
-        "version": "4.5.1",
+        "version": "4.5.2",
         "packageName": "vite",
         "hash": "sha512-AXXFaAJ8yebyqzoNB9fu2pHoo/nWX+xZlaRwoeYUxEqBO+Zj4msE5G+BhGBll9lYEKv9Hfks52PAF2X7qDYXQA=="
       }
@@ -18646,13 +18592,6 @@
         "type": "static"
       }
     ],
-    "npm:combined-stream": [
-      {
-        "source": "npm:combined-stream",
-        "target": "npm:delayed-stream",
-        "type": "static"
-      }
-    ],
     "npm:compressible": [
       {
         "source": "npm:compressible",
@@ -20628,23 +20567,6 @@
       {
         "source": "npm:schema-utils@3.3.0",
         "target": "npm:ajv-keywords@3.5.2",
-        "type": "static"
-      }
-    ],
-    "npm:form-data": [
-      {
-        "source": "npm:form-data",
-        "target": "npm:asynckit",
-        "type": "static"
-      },
-      {
-        "source": "npm:form-data",
-        "target": "npm:combined-stream",
-        "type": "static"
-      },
-      {
-        "source": "npm:form-data",
-        "target": "npm:mime-types",
         "type": "static"
       }
     ],
@@ -23361,7 +23283,7 @@
       },
       {
         "source": "npm:nx",
-        "target": "npm:axios@1.6.2",
+        "target": "npm:axios",
         "type": "static"
       },
       {
@@ -23562,23 +23484,6 @@
       {
         "source": "npm:nx",
         "target": "npm:@nx/nx-win32-x64-msvc",
-        "type": "static"
-      }
-    ],
-    "npm:axios@1.6.2": [
-      {
-        "source": "npm:axios@1.6.2",
-        "target": "npm:follow-redirects",
-        "type": "static"
-      },
-      {
-        "source": "npm:axios@1.6.2",
-        "target": "npm:form-data",
-        "type": "static"
-      },
-      {
-        "source": "npm:axios@1.6.2",
-        "target": "npm:proxy-from-env",
         "type": "static"
       }
     ],

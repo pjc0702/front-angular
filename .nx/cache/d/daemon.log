@@ -92,3 +92,27 @@
 [NX Daemon Server] - 2024-01-02T20:03:11.064Z - [WATCHER]: Stopping the watcher for c:\Angular\TallerGit\frontend\font-angular (sources)
 [NX Daemon Server] - 2024-01-02T20:03:11.065Z - [WATCHER]: Stopping the watcher for c:\Angular\TallerGit\frontend\font-angular (outputs)
 [NX Daemon Server] - 2024-01-02T20:03:11.065Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-03-12T21:08:58.447Z - Started listening on: \\.\pipe\nx\C:\Users\pjcastit\AppData\Local\Temp\876ac3d509d8760b8f7c\d.sock
+[NX Daemon Server] - 2024-03-12T21:08:58.821Z - [WATCHER]: Subscribed to changes within: c:\Angular\TallerGit\frontend\font-angular (native)
+[NX Daemon Server] - 2024-03-12T21:08:58.828Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-12T21:08:58.833Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-03-12T21:08:58.845Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-12T21:08:58.852Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-03-12T21:09:00.264Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-03-12T21:09:00.265Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-12T21:09:00.266Z - [REQUEST]: 
+[NX Daemon Server] - 2024-03-12T21:09:03.100Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-03-12T21:09:03.110Z - Time taken for 'total for creating and serializing project graph' 4247.087099999189ms
+[NX Daemon Server] - 2024-03-12T21:09:03.114Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-03-12T21:09:03.115Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 4247. Response time: 16.
+[NX Daemon Server] - 2024-03-12T21:09:03.123Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-12T21:09:03.128Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-12T21:09:03.130Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-03-12T21:09:03.132Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-03-12T21:09:03.138Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-03-12T21:09:03.139Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-03-12T21:09:03.140Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-03-12T21:18:27.111Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-03-12T21:18:27.112Z - [WATCHER]: Stopping the watcher for c:\Angular\TallerGit\frontend\font-angular (sources)
+[NX Daemon Server] - 2024-03-12T21:18:27.113Z - [WATCHER]: Stopping the watcher for c:\Angular\TallerGit\frontend\font-angular (outputs)
+[NX Daemon Server] - 2024-03-12T21:18:27.114Z - Server stopped because: "Lock file changed"
