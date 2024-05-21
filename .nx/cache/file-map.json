@@ -34,9 +34,8 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "nonProjectFiles": [],
     "projectFileMap": {
-      "front-angular": [
+      "font-angular": [
         {
           "file": ".angulardoc.json",
           "hash": "400599360748397381"
@@ -51,27 +50,23 @@
         },
         {
           "file": ".nx/cache/d/daemon.log",
-          "hash": "2911464328482434239"
-        },
-        {
-          "file": ".nx/cache/d/server-process.json",
-          "hash": "1364300804259388551"
+          "hash": "9516619970446146194"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "13191025987679842113"
+          "hash": "1631928645600536010"
         },
         {
           "file": ".nx/cache/lockfile.hash",
-          "hash": "13434700218559143499"
+          "hash": "18419961780606746455"
         },
         {
           "file": ".nx/cache/parsed-lock-file.json",
-          "hash": "18050402878645666703"
+          "hash": "8807320927083858018"
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "2248296862816261207"
+          "hash": "7374327039407888355"
         },
         {
           "file": ".vscode/extensions.json",
@@ -92,6 +87,10 @@
         {
           "file": "README.md",
           "hash": "13212953027048080148"
+        },
+        {
+          "file": "angular.json",
+          "hash": "17085376932475376757"
         },
         {
           "file": "ci/Jenkinsfile",
@@ -146,23 +145,7 @@
           "hash": "4454876925163450874",
           "deps": [
             [
-              "npm:karma-jasmine",
-              "dynamic"
-            ],
-            [
-              "npm:karma-chrome-launcher",
-              "dynamic"
-            ],
-            [
-              "npm:karma-jasmine-html-reporter",
-              "dynamic"
-            ],
-            [
               "npm:karma-coverage-istanbul-reporter",
-              "dynamic"
-            ],
-            [
-              "npm:@angular-devkit/build-angular",
               "dynamic"
             ],
             [
@@ -180,42 +163,8 @@
           "hash": "582423219716397890"
         },
         {
-          "file": "package-lock.json",
-          "hash": "13119766467812832076"
-        },
-        {
           "file": "package.json",
-          "hash": "2271432755138207670",
-          "deps": [
-            "npm:@angular/animations",
-            "npm:@angular/common",
-            "npm:@angular/compiler",
-            "npm:@angular/core",
-            "npm:@angular/forms",
-            "npm:@angular/platform-browser",
-            "npm:@angular/platform-browser-dynamic",
-            "npm:@angular/router",
-            "npm:rxjs",
-            "npm:tslib",
-            "npm:zone.js",
-            "npm:@angular-devkit/build-angular",
-            "npm:@angular-devkit/core",
-            "npm:@angular-devkit/schematics",
-            "npm:@angular/cli",
-            "npm:@angular/compiler-cli",
-            "npm:@nx/angular",
-            "npm:@nx/workspace",
-            "npm:@schematics/angular",
-            "npm:@types/jasmine",
-            "npm:jasmine-core",
-            "npm:karma",
-            "npm:karma-chrome-launcher",
-            "npm:karma-coverage",
-            "npm:karma-jasmine",
-            "npm:karma-jasmine-html-reporter",
-            "npm:nx",
-            "npm:typescript"
-          ]
+          "hash": "2271432755138207670"
         },
         {
           "file": "project.json",
@@ -235,34 +184,19 @@
         },
         {
           "file": "src/app/app.component.spec.ts",
-          "hash": "13943346917744373826",
-          "deps": [
-            "npm:@angular/core"
-          ]
+          "hash": "13943346917744373826"
         },
         {
           "file": "src/app/app.component.ts",
-          "hash": "3454734723326320949",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common",
-            "npm:@angular/router"
-          ]
+          "hash": "3454734723326320949"
         },
         {
           "file": "src/app/app.config.ts",
-          "hash": "5548986198782384011",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
+          "hash": "5548986198782384011"
         },
         {
           "file": "src/app/app.routes.ts",
-          "hash": "809736233805555256",
-          "deps": [
-            "npm:@angular/router"
-          ]
+          "hash": "809736233805555256"
         },
         {
           "file": "src/assets/.gitkeep",
@@ -278,10 +212,7 @@
         },
         {
           "file": "src/main.ts",
-          "hash": "4169901790405087765",
-          "deps": [
-            "npm:@angular/platform-browser"
-          ]
+          "hash": "4169901790405087765"
         },
         {
           "file": "src/styles.css",
@@ -300,6 +231,7 @@
           "hash": "5122839733245053999"
         }
       ]
-    }
+    },
+    "nonProjectFiles": []
   }
 }
