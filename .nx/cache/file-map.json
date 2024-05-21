@@ -13,7 +13,7 @@
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2",
-    "@angular-devkit/build-angular": "^17.0.6",
+    "@angular-devkit/build-angular": "^17.3.7",
     "@angular-devkit/core": "^17.0.2",
     "@angular-devkit/schematics": "^17.0.2",
     "@angular/cli": "^17.0.2",
@@ -49,12 +49,280 @@
           "hash": "4689145951703824387"
         },
         {
+          "file": ".nx/cache/cloud/2405.02.15.hotfix5/index.js",
+          "hash": "6358695476021453287",
+          "deps": [
+            "npm:os",
+            "npm:path",
+            "npm:url",
+            "npm:events",
+            "npm:stream",
+            "npm:string_decoder",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:fs",
+            "npm:module",
+            "npm:repl",
+            "npm:vm",
+            "npm:console",
+            "npm:util",
+            "npm:.js",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ],
+            [
+              "npm:process",
+              "dynamic"
+            ],
+            [
+              "npm:constants",
+              "dynamic"
+            ],
+            [
+              "npm:module",
+              "dynamic"
+            ],
+            [
+              "npm:vm",
+              "dynamic"
+            ],
+            [
+              "npm:repl",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2405.02.15.hotfix5/lib/daemon/process-run-end.js",
+          "hash": "7834911388122390690",
+          "deps": [
+            "npm:path",
+            "npm:os",
+            "npm:url",
+            "npm:events",
+            "npm:stream",
+            "npm:string_decoder",
+            "npm:assert",
+            "npm:buffer",
+            "npm:zlib",
+            "npm:fs",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ],
+            [
+              "npm:string_decoder",
+              "dynamic"
+            ],
+            [
+              "npm:process",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2405.02.15.hotfix5/lib/heartbeat/heartbeat-process.js",
+          "hash": "7738922228782575373",
+          "deps": [
+            "npm:os",
+            "npm:path",
+            "npm:url",
+            "npm:fs",
+            [
+              "npm:fs",
+              "dynamic"
+            ],
+            [
+              "npm:path",
+              "dynamic"
+            ],
+            [
+              "npm:os",
+              "dynamic"
+            ],
+            [
+              "npm:child_process",
+              "dynamic"
+            ],
+            [
+              "npm:crypto",
+              "dynamic"
+            ],
+            [
+              "npm:stream",
+              "dynamic"
+            ],
+            [
+              "npm:util",
+              "dynamic"
+            ],
+            [
+              "npm:http",
+              "dynamic"
+            ],
+            [
+              "npm:https",
+              "dynamic"
+            ],
+            [
+              "npm:url",
+              "dynamic"
+            ],
+            [
+              "npm:tty",
+              "dynamic"
+            ],
+            [
+              "npm:assert",
+              "dynamic"
+            ],
+            [
+              "npm:zlib",
+              "dynamic"
+            ],
+            [
+              "npm:events",
+              "dynamic"
+            ],
+            [
+              "npm:perf_hooks",
+              "dynamic"
+            ]
+          ]
+        },
+        {
+          "file": ".nx/cache/cloud/2405.02.15.hotfix5/package.json",
+          "hash": "11687418979936424737"
+        },
+        {
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "17523752343149860240"
+        },
+        {
           "file": ".nx/cache/d/daemon.log",
           "hash": "9516619970446146194"
         },
         {
           "file": ".nx/cache/file-map.json",
-          "hash": "1631928645600536010"
+          "hash": "4179029839098778368"
         },
         {
           "file": ".nx/cache/lockfile.hash",
@@ -66,7 +334,7 @@
         },
         {
           "file": ".nx/cache/project-graph.json",
-          "hash": "7374327039407888355"
+          "hash": "4426027917579091016"
         },
         {
           "file": ".vscode/extensions.json",
@@ -164,7 +432,7 @@
         },
         {
           "file": "package.json",
-          "hash": "2271432755138207670"
+          "hash": "3860057133280999928"
         },
         {
           "file": "project.json",
